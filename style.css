@@ -1,0 +1,15 @@
+.header{
+text-align:center;
+color:blue;
+}
+.center{
+text-align:center;
+} 
+body{
+background-image:url('prop4.jpg');
+background-size:cover;
+font-size:30px
+}
+total{
+padding:4% 4% 9% 2%;
+}
